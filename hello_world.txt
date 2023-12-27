@@ -1,1 +1,2 @@
 Hello World! 
+I am just adding this to test changing the Git commit message editor to use VSCode by default
